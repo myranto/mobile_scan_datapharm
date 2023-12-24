@@ -1,0 +1,8 @@
+{
+  "name": "DataProject",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "19b6f192"
+}
